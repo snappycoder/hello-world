@@ -1,2 +1,3 @@
 # hello-world
-My first repository in GitHub
+Hope you are having a great day.
+If not, make it so!
